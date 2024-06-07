@@ -1,0 +1,20 @@
+SMAP
+SampleInsertionRecord_jsp.java
+JSP
+*S JSP
+*F
++ 0 SampleInsertionRecord.jsp
+SampleInsertionRecord.jsp
+*L
+5,15:45
+21,5:62
+25,3:67
+28,4:71
+31,3:75
+34,5:79
+38,3:84
+41,8:88
+48,2:96
+50,9:99
+58,5:108
+*E
